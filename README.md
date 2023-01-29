@@ -1,2 +1,3 @@
 # chess
-The game of chess in Java
+
+Honors Advanced Programming final project
